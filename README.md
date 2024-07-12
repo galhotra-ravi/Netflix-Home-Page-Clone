@@ -1,6 +1,1 @@
-![image](https://github.com/user-attachments/assets/a8473062-41cf-4043-b632-8a4708112503)
-![image](https://github.com/user-attachments/assets/88479536-cd0a-4efc-97f1-0165601f9f7a)
-![image](https://github.com/user-attachments/assets/9168eee2-fa25-4732-9021-96357157d709)
-![image](https://github.com/user-attachments/assets/2c750062-8640-43e3-b28c-cf0fb4f98f45)
-![image](https://github.com/user-attachments/assets/a27862cd-8101-4b73-bd9f-223cd10579e2)
-![image](https://github.com/user-attachments/assets/9a91f3fe-bd4f-4dd2-8d83-87e882c1c8ac)
+![_D__Codes_Personal_practice20dev_NetflixClone_index html](https://github.com/user-attachments/assets/a237644f-8228-4ad1-a6b9-fc9ddf28af41)
